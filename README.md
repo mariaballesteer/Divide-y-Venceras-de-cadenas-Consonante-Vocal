@@ -34,6 +34,7 @@ Para garantizar un rendimiento óptimo frente a grandes volúmenes de datos ($n 
 
 ## Estructura del proyecto
 
+```bash
 ├── doc/
 │   └── Memoria práctica 1.pdf 
 ├── src/
@@ -44,6 +45,7 @@ Para garantizar un rendimiento óptimo frente a grandes volúmenes de datos ($n 
 │   └── peor.txt
 ├── makefile
 └── README.md
+```
 
 ---
 
